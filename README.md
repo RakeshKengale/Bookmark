@@ -22,3 +22,4 @@
 
 - ### AI - ChatBot
   - [AI - Chat Bot](https://github.com/RakeshKengale/Bookmark/blob/master/Index/ai_chatbot.md) [1]
+  - [Chat GPT Prompt's](https://github.com/RakeshKengale/Bookmark/blob/master/Index/chat_gtp_prompts.md) [1]
