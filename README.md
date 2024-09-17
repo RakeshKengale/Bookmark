@@ -1,8 +1,7 @@
 ![Image of Yaktocat](https://github.com/RakeshKengale/Bookmark/blob/master/Images/Bookmark_Logo.png)
 > List Of Some Useful Bookmarks 
 
-### Torrent
-   - [Torrent](#Torrent) [2]
+### [Torrent](#Torrent) [2]
 - ### Torrent
    - [Torrent](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Torrent.md) [2]
    - [Torrent Tracker](https://github.com/RakeshKengale/Bookmark/blob/master/Index/torrent_tracker.md)
