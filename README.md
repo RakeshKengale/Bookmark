@@ -34,8 +34,16 @@
   - [uhdmovies.fyi](https://uhdmovies.fyi) -
   - [filmyhit.up.in](https://www.filmyhit.up.in) -
   - [coolmoviez.bihar.in](https://www.coolmoviez.bihar.in) -
-  - [pikahd.com](https://pikahd.com/pikahd.com) -
   - [katmoviehd.pk](https://katmoviehd.pk/) -
+  - [vegamovies.rs](https://vegamovies.rs/) -
+  - [luxmovies.fun](https://luxmovies.fun/) -
+  - [downloadhub.world](https://www.downloadhub.world/) -
+ 
+- ### Animes
+  - [animedubhindi.com](https://www.animedubhindi.com/) - 
+  - [pikahd.com](https://pikahd.com/) -
+  - [desidubanime.me](https://www.desidubanime.me) -
+  - [anime-world.co](https://anime-world.co/) -
   
 - ### Torrent
   - [1337x.to](https://1337x.to) - 1337x is a search engine to find your favorite torrents.
