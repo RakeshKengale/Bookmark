@@ -13,6 +13,9 @@
 
 - ### Book's
   - [Book's](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Books.md) [5]
+ 
+- ### Read Blog's
+  - [Read Blog](https://freedium.cfd)
 
 - ### Stock Market
   - [Stock Market](https://github.com/RakeshKengale/Bookmark/blob/master/Index/Stock.md) [9]
