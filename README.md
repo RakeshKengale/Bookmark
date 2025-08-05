@@ -66,7 +66,8 @@
   - [Getintopc.com](https://getintopc.com/) - Get Into PC - Download Free Your Desired App
   - [Karanpc.com](https://karanpc.com/) - Karan PC - Get Trusted Free PC Resources
   - [P30download.ir](https://p30download.ir/) - PC Download: Free download software, games, training, books
-  
+  - [Recuva](https://www.ccleaner.com/recuva/download) - Reliable File Recovery (by CCleaner) It helps you recover files accidentally deleted from your PC, USB, SD card, even formatted or damaged drives.
+    
 - ### PC Games
-  - [Skidrowcodex](https://www.skidrowcodex.net/) - SKiDROW CODEX GAMES - Download and Play PC games
+  - [Skidrowcodex](https://www.skidrowcodex.net/) - SKiDROW CODEX GAMES - Download and Play          PC games
   - [Cracked-games.org](https://cracked-games.org) - cracked-games.org | Games & Software | Official Website
