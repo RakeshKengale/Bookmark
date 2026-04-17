@@ -41,6 +41,13 @@
   - [vegamovies.rs](https://vegamovies.rs/) -
   - [luxmovies.fun](https://luxmovies.fun/) -
   - [downloadhub.world](https://www.downloadhub.world/) -
+  - [filmydhyan.com](https://filmydhyan.com/)
+  - [filmyone.xyz](https://filmyone.xyz/)
+  - [9xmovie.talk](https://9xmovie.talk/)
+  - [quhdmovie.com](https://quhdmovie.com/)
+  - []()
+  - []()
+  - []()
  
 - ### Animes
   - [animedubhindi.com](https://www.animedubhindi.com/) - 
