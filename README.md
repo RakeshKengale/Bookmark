@@ -28,19 +28,19 @@
   - [Chat GPT Prompt's](https://github.com/RakeshKengale/Bookmark/blob/master/Index/chat_gtp_prompts.md) [4]
   
 - ### Movies
-  - [Tamilmv.tf](https://www.1tamilmv.tf) - Download & Watch Latest Tamil Telugu Hindi Malayalam Movies
-  - [9xmovie.win](https://9xmovie.win/) -
-  - [bolly4u.moi](https://bolly4u.moi/) - 
-  - [thekhatrimaza.su](https://thekhatrimaza.su) -
-  - [mp4moviez.villas](https://www.mp4moviez.villas) -
-  - [rogmovies.icu](https://rogmovies.icu/) -
-  - [uhdmovies.fyi](https://uhdmovies.fyi) -
-  - [filmyhit.up.in](https://www.filmyhit.up.in) -
-  - [coolmoviez.bihar.in](https://www.coolmoviez.bihar.in) -
-  - [katmoviehd.pk](https://katmoviehd.pk/) -
-  - [vegamovies.rs](https://vegamovies.rs/) -
-  - [luxmovies.fun](https://luxmovies.fun/) -
-  - [downloadhub.world](https://www.downloadhub.world/) -
+  - [1tamilmv.frl](https://www.1tamilmv.frl)
+  - [9xmovie.win](https://9xmovie.win/)
+  - [bolly4u.moi](https://bolly4u.moi/) 
+  - [thekhatrimaza.su](https://thekhatrimaza.su)
+  - [mp4moviez.villas](https://www.mp4moviez.villas)
+  - [rogmovies.icu](https://rogmovies.icu/)
+  - [uhdmovies.fyi](https://uhdmovies.fyi)
+  - [filmyhit.up.in](https://www.filmyhit.up.in)
+  - [coolmoviez.bihar.in](https://www.coolmoviez.bihar.in)
+  - [katmoviehd.pk](https://katmoviehd.pk/)
+  - [vegamovies.rs](https://vegamovies.rs/)
+  - [luxmovies.fun](https://luxmovies.fun/)
+  - [downloadhub.world](https://www.downloadhub.world/)
   - [filmydhyan.com](https://filmydhyan.com/)
   - [filmyone.xyz](https://filmyone.xyz/)
   - [9xmovie.talk](https://9xmovie.talk/)
