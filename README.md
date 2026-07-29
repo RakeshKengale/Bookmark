@@ -28,6 +28,19 @@
   - [Chat GPT Prompt's](https://github.com/RakeshKengale/Bookmark/blob/master/Index/chat_gtp_prompts.md) [4]
   
 - ### Movies
+  - [KatWorld (Official)](https://katworld.net/) | [Katmoviehd.fans](https://new.katmoviehd.top) | [Katmovie4K](https://katmovie4k.mov) :green_circle:
+  - [Moviesbaba](https://moviesbaba.xyz) :green_circle:
+  - [HDHub4u (Official)](https://hdhub4u.med) :green_circle:
+  - [Filmyfly](https://filmyfly.soy/) :green_circle:
+  - [Movierulz](https://www.5movierulz.vote) :green_circle:
+  - [aha - Tamil, Telagu](https://www.aha.video) :green_circle:
+  - [Bolly4u](https://bolly-in.com/) :green_circle:
+  - [Anymovie.site (Online)](https://anymovie.site/) :green_circle:
+  - [vegamoviess](https://vegamoviess.cc/) | [Vegamoviez](https://vegamoviez.my) :green_circle:
+  - [TheKhatriMaza](https://thekhatrimaza.free/) :green_circle:
+  - [coolmoviez (Mobile UI)](https://www.coolmoviez.courses) :green_circle:
+  - [Jalshamoviez (Mobile UI)](https://www.jalshamoviez.directory/) :green_circle:
+  -  
   - [1tamilmv.frl](https://www.1tamilmv.frl)
   - [9xmovie.win](https://9xmovie.win/)
   - [bolly4u.moi](https://bolly4u.moi/) 
@@ -50,10 +63,15 @@
   - []()
  
 - ### Animes
-  - [animedubhindi.com](https://www.animedubhindi.com/) - 
-  - [pikahd.com](https://pikahd.com/) -
-  - [desidubanime.me](https://www.desidubanime.me) -
-  - [anime-world.co](https://anime-world.co/) -
+  - [AnimaHD - A Universe Of Anime (Official)](https://animahd.com) :green_circle:
+  - [Anime Hindi Dub](https://animehindidub.com) :green_circle:
+  - [Anime Hindi HD](https://animehindihd.com) :green_circle:
+  - [Anime Dub Hindi](https://www.animedubhindi.link) :green_circle:
+  - [DesiDubAnime - Watch Indian Regional Dubbed Anime Online](https://www.desidubanime.me) :green_circle:
+  - [AnimeDrive](https://animedrive.in) :green_circle:
+  - [Hindi Dubbed Anime (Official)](https://hindidubbedanime.com/) | [PikaHD – Official Website](https://pikahd.org) | [AnimeVilla](https://animevilla.org) :green_circle:
+  - [PikaHD](https://new.pikahd.co) :green_circle:
+  - [Anime World India](https://watchanimeworld.top) :green_circle:
   
 - ### Torrent
   - [1337x.to](https://1337x.to) - 1337x is a search engine to find your favorite torrents.
@@ -76,5 +94,10 @@
   - [Recuva](https://www.ccleaner.com/recuva/download) - Reliable File Recovery (by CCleaner) It helps you recover files accidentally deleted from your PC, USB, SD card, even formatted or damaged drives.
     
 - ### PC Games
-  - [Skidrowcodex](https://www.skidrowcodex.net/) - SKiDROW CODEX GAMES - Download and Play          PC games
-  - [Cracked-games.org](https://cracked-games.org) - cracked-games.org | Games & Software | Official Website
+  - [Skidrowcodex](https://www.skidrowcodex.net/) - SKiDROW CODEX GAMES - Download and Play PC games :green_circle:
+  - [Cracked-games.org](https://cracked-games.org) - cracked-games.org | Games & Software | Official Website :green_circle:
+
+- ### Other
+  - [Github Emoji API](https://api.github.com/emojis)
+  - [GitHub Emoji Cheat Sheet](http://phw198.github.io/github-emoji-cheatsheet)
+  - 
