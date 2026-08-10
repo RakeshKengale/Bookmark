@@ -72,6 +72,7 @@
   - [Hindi Dubbed Anime (Official)](https://hindidubbedanime.com/) | [PikaHD – Official Website](https://pikahd.org) | [AnimeVilla](https://animevilla.org) :green_circle:
   - [PikaHD](https://new.pikahd.co) :green_circle:
   - [Anime World India](https://watchanimeworld.top) :green_circle:
+  - [Deadtoons (Official)](https://deadtoons.org) | [DeadToons India](https://deadtoons.sbs) :green_circle:
   
 - ### Torrent
   - [1337x.to](https://1337x.to) - 1337x is a search engine to find your favorite torrents.
